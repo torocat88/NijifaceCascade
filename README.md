@@ -11,11 +11,10 @@ A LBP-type face detector of girl in illustrations/animations
 This is an OpenCV detector for detecting a girl's face from an illustration or animation image.
 This detector also detects faces from LBP features.
 
-## Example of use
+This repository is linked from the following article.
+[Qiita:機械学習初心者が2次元美少女の顔認識をした話](https://qiita.com/torocat/items/4c733eab922e8fff1d9a)
 
-```shell-session
-$ pip install opencv-python numpy
-```
+## Example of use
 
 ```python
 import math
